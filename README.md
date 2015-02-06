@@ -16,6 +16,12 @@ Features:
 * very low memory (a few tens of megabytes) and cpu requirements.
 * crawlers run in parallel (by default 96 threads simultaneously).
 
+# We :heart: Pull Requests!
+Seriously, we really do.  It doesn't matter whether you're fixing a typo or overhauling a major area of the code base.  You will be showered in :thumbsup: :thumbsup: :thumbsup:<br><br>
+Get paid to contribute to GameCredits.<br>
+Projects Funds
+[![tip for next commit](http://game4commit.gamers-coin.org/projects/9.svg)](http://game4commit.gamers-coin.org/projects/9)
+
 USAGE
 -----
 
